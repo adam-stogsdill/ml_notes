@@ -1,0 +1,5 @@
+/*
+ I would test the program using a
+ text with known set of words
+ and running that through the program.
+*/
